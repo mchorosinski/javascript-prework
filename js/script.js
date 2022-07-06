@@ -1,4 +1,5 @@
 {
+'use strict';  
 function playGame(playerInput) {
 
   console.log('wywołano playGame')
